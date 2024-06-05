@@ -3,7 +3,7 @@
   "compilerOptions": {
     "allowSyntheticDefaultImports": true,
     "target": "ES2020",
-    "module": "ES2020",
+    "module": "commonjs",
     "lib": ["ES2020", "DOM", "DOM.Iterable", "ES2022.Error", "ES2021.Promise"],
     "strict": true,
     "removeComments": true,
@@ -13,7 +13,7 @@
     "noImplicitAny": true,
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
-    "verbatimModuleSyntax": true,
+    "verbatimModuleSyntax": false,
     "noFallthroughCasesInSwitch": true,
     "noImplicitOverride": true,
     "noImplicitReturns": true,
