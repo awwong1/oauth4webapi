@@ -1,6 +1,6 @@
 {
-  "name": "oauth4webapi",
-  "version": "2.10.4",
+  "name": "@awwong1/oauth4webapi",
+  "version": "1.0.0",
   "description": "OAuth 2 / OpenID Connect for JavaScript Runtimes",
   "keywords": [
     "access token",
@@ -33,8 +33,8 @@
     "workerd",
     "workers"
   ],
-  "homepage": "https://github.com/panva/oauth4webapi",
-  "repository": "panva/oauth4webapi",
+  "homepage": "https://github.com/awwong1/oauth4webapi",
+  "repository": "awwong1/oauth4webapi",
   "funding": {
     "url": "https://github.com/sponsors/panva"
   },

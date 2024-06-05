@@ -1,3 +1,5 @@
+> NOTE: This is a fork of the original [panva/oauth4webapi](https://github.com/panva/oauth4webapi) repository with a modification to output commonjs. See also https://github.com/auth0/nextjs-auth0/issues/1752
+
 # OAuth 2 / OpenID Connect for JavaScript Runtimes
 
 This software provides a collection of routines that can be used to build client modules for OAuth 2.1, OAuth 2.0 with the latest Security Best Current Practices (BCP), and FAPI 2.0, as well as OpenID Connect where applicable. The primary goal of this software is to promote secure and up-to-date best practices while using only the capabilities common to both browser and non-browser JavaScript runtimes.
@@ -84,7 +86,6 @@ The supported JavaScript runtimes include those that support the utilized Web AP
 
 The following features are currently out of scope:
 
-- CommonJS
 - Implicit, Hybrid, and Resource Owner Password Credentials Flows
 - JSON Web Encryption (JWE)
 - Automatic polyfills of any kind
